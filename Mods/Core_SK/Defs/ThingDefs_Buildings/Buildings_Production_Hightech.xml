@@ -2015,6 +2015,7 @@
 		<costStuffCount>130</costStuffCount>
 		<stuffCategories>
 			<li>Stony</li>
+			<li>Bricks</li>
 		</stuffCategories>
 		<costList>
 			<Component>10</Component>
@@ -2755,6 +2756,7 @@
 		<designationCategory>Production</designationCategory>
 		<interactionCellOffset>(0,0,-1)</interactionCellOffset>
 		<recipes>
+			<li>DisassembleAIPersonaCore</li>
 			<li>BuildMagneticMaterial</li>
 			<li>BuildBiosyntheticMaterial</li>
 			<li>MakeBioelectronicDevices</li>
